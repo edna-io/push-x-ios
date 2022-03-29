@@ -20,8 +20,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "EDNAPushX",
-            url: "https://github.com/edna-io/push-x-ios/releases/download/1.2.2/edna-push-x-1.2.2.zip",
-            checksum: "1615ed4fdf8e9a30da8c800cdc79d62fd12ecddd5f2eaf3bb3452fccf1572771"
+            url: "https://github.com/edna-io/push-x-ios/releases/download/1.2.3/edna-push-x-1.2.3.zip",
+            checksum: "6ca17e6824df699e1f7bb2a25c24339e8a17d5b77caea90b588d6fc2f554a548"
         ),
     ]
 )
