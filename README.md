@@ -1,14 +1,13 @@
+
 # edna push SDK for iOS
 Contains Library for Main App, Demo project and SPM Package.
 
-Гид по интеграции на русском https://docs.edna.ru/kb/podkljuchenie-pushej-ios
+Guide: <https://docs.edna.io/kb/enabling-ios-push-notifications/>
 
-Guide in English <https://docs.edna.io/kb/enabling-ios-push-notifications/>
+https://edna.io/
 
-https://edna.ru/
+Sales:<br>
+sales@edna.io
 
-По вопросам продаж/Sales:<br>
-sales@edna.ru
-
-Техническая поддержка/Tech support:<br>
-support@edna.ru
+Tech support:<br>
+support@edna.io
